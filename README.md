@@ -1,6 +1,7 @@
 # UNP_SQL_PROJECT_E_COMMERCE_STORE_DATASET_ANALYSIS
 
 Description
+
 Designed and implemented a complete E-Commerce database system using SQL at UNP Education. 
 Created structured tables for customers, products, orders, payments, shipping, and delivery with primary and foreign key relationships to ensure data integrity. 
 Performed CRUD operations and wrote advanced queries using INNER, LEFT, RIGHT, and FULL joins for multi-table data retrieval. 
