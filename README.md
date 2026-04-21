@@ -9,4 +9,4 @@ Used aggregate functions like SUM, AVG, and COUNT to run business analysis on sa
 Generated insights on total revenue, average order value, preferred payment modes, and top-performing products. 
 Demonstrates practical database design, query optimization, and real-world business problem-solving skills.
 
-Project File: https://drive.google.com/file/d/1L7dJCKDTBeC6AdGsjqHxEX7DBc25J11W/view?usp=sharing
+Project File: https://drive.google.com/file/d/1I4my1ZJlSsv25SJ70mihnxjcJ-8IrHy5/view?usp=sharing
